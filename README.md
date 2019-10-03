@@ -1,6 +1,16 @@
 # Benvenuti nel magico mondo di Dave
 
-[TOC]
+# BRANCH TESTING
+
+Ciao! Se sei capitato in questo branch, ti segnalo che troverai tendenzialmente bestemmie,
+odio, disperazione, sesso, rock 'n' roll, foche, e tante altre cose puccine 
+pucciosine :3
+
+E' il mega iper super fantastieccezionaliglioso branch in cui faccio esperimenti in genere ;))))))))))
+
+## NON E' AGGIORNATO MAI NELLA VITA FOREVER, USATE IL MASTER PER GLI APPUNTI, QUA FACCIO SOLO PROVE
+
+Ogni tanto ovviamente farò la merge, trankkk ;)))))))))))
 
 
 
